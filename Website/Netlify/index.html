@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hydroponic Monitoring System</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Hydroponic Monitoring System</h1>
+    </header>
+    <main>
+        <section class="motor-status">
+            <h2>Motor Status</h2>
+            <div class="motor-container">
+                <div class="motor" id="water-pump-status">
+                    <h3>Water Pump</h3>
+                    <p>Status: <span id="water-pump-state">Off</span></p>
+                    <button id="water-pump-start">Start</button>
+                    <button id="water-pump-stop">Stop</button>
+                </div>
+        
+                <div class="motor" id="fertilizer-pump-status">
+                    <h3>Fertilizer Pump</h3>
+                    <p>Status: <span id="fertilizer-pump-state">Off</span></p>
+                    <button id="fertilizer-pump-start">Start</button>
+                    <button id="fertilizer-pump-stop">Stop</button>
+                </div>
+            </div>
+        </section>
+        
+
+        <section class="monitoring">
+            <h2>Readings</h2>
+            <div class="condition">
+                <div class="frame water-level">
+                    <h3>Water Level</h3>
+                    <div class="tank-widget">
+                        <div class="tank" id="water-tank"></div>
+                    </div>
+                    <p>Status: <span id="water-level">0%</span></p>
+                    <p>Tank: <span id="tank-status"></span></p> 
+                </div>
+                <div class="frame ph-level">
+                    <h3>pH Level</h3>
+                    <div class="speedometer-widget">
+                        <div class="gauge-background">
+                            <div class="gauge-ticks"></div>
+                            <div class="gauge-needle" id="ph-needle"></div>
+                            <div class="gauge-center"></div>
+                        </div>
+                    </div>
+                    <p>Status: <span id="ph-level">6.5</span></p>
+                    <p>PH: <span id="PH-status">Good</span></p> 
+                </div>
+                <div class="frame temperature">
+                    <h3>Temperature</h3>
+                    <img src="weather.gif" alt="Temperature Animation" class="temperature-gif" />
+                    <p>Current: <span id="temperature">22°C</span></p>
+
+                    
+                </div>
+                <div class="frame humidity">
+                    <h3>Humidity</h3>
+                    <img src="humidity.gif" alt="Humidity Animation" class="humidity-gif" />
+                    <p>Current: <span id="humidity">60%</span></p>
+                </div>
+            </div>
+        </section>
+                
+
+        <section class="video-feed">
+            <h2>Visual Monitoring</h2>
+            <iframe id="camera-feed" src="" width="800" height="600" frameborder="0" allowfullscreen style="display: none;"></iframe>
+        
+            <div class="video-controls">
+                <button id="start-button" onclick="startVideo()">Start Video</button>
+                <button id="stop-button" onclick="stopVideo()" disabled>Stop Video</button>
+            </div>
+        </section>
+        
+        
+        <section class="auto-mode">
+            <h2>Auto Mode</h2>
+            <p>Enable Auto Mode to allow the system to automatically control the pumps based on environmental conditions.</p>
+            
+            <div class="auto-mode-container">
+                <div class="auto-water-frame">
+                    <h3>Auto: Water Pump</h3>
+                    <label for="auto-water-checkbox">Enable Auto Water Pump</label>
+                    <div class="toggle-container">
+                        <label class="switch">
+                            <input type="checkbox" id="auto-water-checkbox">
+                            <span class="slider round"></span>
+                        </label>
+                        <p>Status: <span id="auto-water-status">Disabled</span></p>
+                    </div>
+                </div>
+                
+                <div class="auto-fertilizer-frame">
+                    <h3>Auto: Fertilizer Pump</h3>
+                    <label for="auto-fertilizer-checkbox">Enable Auto Fertilizer Pump</label>
+                    <div class="toggle-container">
+                        <label class="switch">
+                            <input type="checkbox" id="auto-fertilizer-checkbox">
+                            <span class="slider round"></span>
+                        </label>
+                        <p>Status: <span id="auto-fertilizer-status">Disabled</span></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        
+        <section class="alerts">
+            <h2>Alerts</h2>
+            <ul id="alerts-list">
+                <li>No alerts at the moment.</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer id="footer">
+        <div class="footer-content">
+            <p>&copy; 2024 Hydroponic System. All rights reserved.</p>
+    
+            <div class="contact-info">
+                <p>Contact Us: <a href="mailto:hydroponicsystemhelp@gmail.com">hydroponicsystemhelp@gmail.com</a></p>
+            </div>
+    
+            <div class="social-media">
+                <a href="https://twitter.com/" target="_blank">
+                    <img src="twitter-icon.png" alt="Twitter" />
+                </a>
+                <a href="https://facebook.com/" target="_blank">
+                    <img src="facebook-icon.png" alt="Facebook" />
+                </a>
+                <a href="https://instagram.com/" target="_blank">
+                    <img src="instagram-icon.png" alt="Instagram" />
+                </a>
+            </div>
+        </div>
+    </footer>
+        
+    
+    <script src="script.js"></script>
+</body>
+</html>

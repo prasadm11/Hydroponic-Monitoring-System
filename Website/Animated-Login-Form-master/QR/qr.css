@@ -1,0 +1,128 @@
+body {
+    font-family: 'Poppins', sans-serif; /* Updated font for a modern feel */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(to bottom right, #1a2a38, #2a3d4d); /* Darker gradient for a modern vibe */
+    opacity: 1; /* Fully visible */
+}
+
+.container {
+    background: linear-gradient(to bottom right, #e1f7fa, #c1e1e5); /* Light gradient for the container */
+    padding: 30px;
+    border-radius: 20px; /* Soft rounded corners */
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.15); /* Enhanced shadow for depth */
+    text-align: center;
+    max-width: 500px;
+    width: 100%;
+    position: relative; /* For absolute positioning of inner elements */
+    animation: zoomIn 1.5s ease; /* Adding zoom-in animation */
+}
+
+/* Zoom-in animation */
+@keyframes zoomIn {
+    0% {
+        transform: scale(0.5);
+        opacity: 0;
+    }
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+h2 {
+    color: #333;
+    font-size: 28px; /* Increased font size */
+    margin-bottom: 10px;
+    text-shadow: 1px 1px 3px rgba(255, 255, 255, 0.8); /* Softer text shadow */
+}
+
+p {
+    color: #555; /* Softer grey for body text */
+    font-size: 18px; /* Increased font size */
+    margin-bottom: 20px;
+}
+
+/* Styling for buttons */
+.amount-btn {
+    background-color: #6c63ff; /* Softer purple */
+    color: white;
+    padding: 12px 24px; /* Larger button */
+    margin: 5px;
+    border: none;
+    border-radius: 25px; /* Fully rounded buttons */
+    font-size: 18px; /* Increased font size */
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease; /* Added transform transition */
+    box-shadow: 0px 4px 12px rgba(0, 108, 255, 0.2); /* Button shadow */
+}
+
+.amount-btn:hover {
+    background-color: #575fcf; /* Darker shade on hover */
+    transform: translateY(-3px); /* Slight lift effect on hover */
+}
+
+/* Styling for input and custom amount button */
+.custom-amount {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
+    align-items: center; /* Center them horizontally */
+}
+
+.custom-amount input {
+    padding: 12px;
+    font-size: 16px;
+    width: 220px; /* Adjust width */
+    border: 2px solid #6c63ff; /* Matching border color */
+    border-radius: 25px; /* Fully rounded input */
+    margin-bottom: 10px; /* Add spacing below the input */
+    transition: border 0.3s ease, box-shadow 0.3s ease; /* Added box-shadow transition */
+}
+
+.custom-amount input:focus {
+    border-color: #575fcf; /* Darker border on focus */
+    box-shadow: 0px 0px 8px rgba(108, 99, 255, 0.5); /* Focus glow effect */
+}
+
+.custom-amount button {
+    background-color: #28A745; /* Green for custom amount button */
+    color: white;
+    padding: 12px 24px; /* Larger button */
+    border: none;
+    border-radius: 25px; /* Fully rounded corners */
+    font-size: 18px; /* Increased font size */
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease; /* Added transform transition */
+}
+
+.custom-amount button:hover {
+    background-color: #218838; /* Darker green on hover */
+    transform: translateY(-3px); /* Slight lift effect on hover */
+}
+
+/* QR Code container */
+.qr-container {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #ffffff; 
+    border: 2px solid #ccc; /* Solid border for contrast */
+    border-radius: 12px;
+    display: inline-block;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Adding shadow */
+    transition: transform 0.3s ease; /* Transition for hover effect */
+}
+
+.qr-container:hover {
+    transform: scale(1.02); /* Slight scale effect on hover */
+}
+
+/* Footer or additional notes */
+footer {
+    margin-top: 30px;
+    font-size: 14px;
+    color: #999;
+}

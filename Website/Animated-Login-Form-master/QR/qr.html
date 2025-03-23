@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UPI Donation QR Code Generator</title>
+    <link rel="stylesheet" href="qr.css">
+</head>
+<body>
+
+    <div class="container">
+        <h2>Donate via UPI</h2>
+        <p>Select an amount or enter a custom amount to generate a QR code:</p>
+
+        <!-- Buttons for predefined amounts -->
+        <div>
+            <button class="amount-btn" data-amount="200">₹200</button>
+            <button class="amount-btn" data-amount="500">₹500</button>
+            <button class="amount-btn" data-amount="1000">₹1000</button>
+        </div>
+
+        <!-- Input for custom amount -->
+        <div class="custom-amount">
+            <input type="number" id="customAmount" placeholder="Enter custom amount" min="1">
+            <button onclick="generateCustomQRCode()">Generate QR</button>
+        </div>
+
+        <!-- QR Code will be generated here -->
+        <div class="qr-container">
+            <canvas id="qr"></canvas>
+        </div>
+
+        <footer>
+            Thank you for your support! Every contribution helps us.
+        </footer>
+    </div>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrious/4.0.2/qrious.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

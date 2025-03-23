@@ -1,0 +1,202 @@
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/appsettings.json
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/IOTGarden.exe
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/IOTGarden.deps.json
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/IOTGarden.runtimeconfig.json
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/IOTGarden.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/IOTGarden.pdb
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/AWSSDK.Core.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/AWSSDK.SecurityToken.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/DnsClient.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/MongoDB.Bson.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/MongoDB.Driver.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/MongoDB.Driver.Core.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/MongoDB.Libmongocrypt.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/SharpCompress.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/Snappier.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/ZstdSharp.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/runtimes/linux/native/libmongocrypt.so
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/runtimes/osx/native/libmongocrypt.dylib
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/runtimes/win/native/mongocrypt.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/obj/Debug/net6.0/IOTGarden.csproj.AssemblyReference.cache
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/obj/Debug/net6.0/IOTGarden.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/obj/Debug/net6.0/IOTGarden.AssemblyInfoInputs.cache
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/obj/Debug/net6.0/IOTGarden.AssemblyInfo.cs
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/obj/Debug/net6.0/IOTGarden.csproj.CoreCompileInputs.cache
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/obj/Debug/net6.0/IOTGarden.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/obj/Debug/net6.0/IOTGarden.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/obj/Debug/net6.0/staticwebassets/msbuild.IOTGarden.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/obj/Debug/net6.0/staticwebassets/msbuild.build.IOTGarden.props
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.IOTGarden.props
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.IOTGarden.props
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/obj/Debug/net6.0/scopedcss/bundle/IOTGarden.styles.css
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/obj/Debug/net6.0/IOTGarden.csproj.Up2Date
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/obj/Debug/net6.0/IOTGarden.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/obj/Debug/net6.0/refint/IOTGarden.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/obj/Debug/net6.0/IOTGarden.pdb
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/obj/Debug/net6.0/IOTGarden.genruntimeconfig.cache
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/obj/Debug/net6.0/ref/IOTGarden.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/Microsoft.AspNetCore.OData.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/Microsoft.OData.Core.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/Microsoft.OData.Edm.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/Microsoft.OData.ModelBuilder.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/Microsoft.Spatial.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/Microsoft.Data.Edm.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/Microsoft.Data.OData.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/System.Spatial.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/de/Microsoft.Data.Edm.resources.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/es/Microsoft.Data.Edm.resources.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/fr/Microsoft.Data.Edm.resources.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/it/Microsoft.Data.Edm.resources.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/ja/Microsoft.Data.Edm.resources.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/ko/Microsoft.Data.Edm.resources.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/ru/Microsoft.Data.Edm.resources.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/zh-Hans/Microsoft.Data.Edm.resources.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/zh-Hant/Microsoft.Data.Edm.resources.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/de/Microsoft.Data.OData.resources.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/es/Microsoft.Data.OData.resources.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/fr/Microsoft.Data.OData.resources.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/it/Microsoft.Data.OData.resources.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/ja/Microsoft.Data.OData.resources.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/ko/Microsoft.Data.OData.resources.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/ru/Microsoft.Data.OData.resources.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/zh-Hans/Microsoft.Data.OData.resources.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/zh-Hant/Microsoft.Data.OData.resources.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/de/System.Spatial.resources.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/es/System.Spatial.resources.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/fr/System.Spatial.resources.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/it/System.Spatial.resources.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/ja/System.Spatial.resources.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/ko/System.Spatial.resources.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/ru/System.Spatial.resources.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/zh-Hans/System.Spatial.resources.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/zh-Hant/System.Spatial.resources.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/EntityFramework.SqlServer.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/EntityFramework.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/System.CodeDom.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/System.Data.SqlClient.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/prasa/source/repos/IOTGarden/IOTGarden/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/appsettings.Development.json
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/appsettings.json
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/IOTGarden
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/IOTGarden.deps.json
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/IOTGarden.runtimeconfig.json
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/IOTGarden.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/IOTGarden.pdb
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/AWSSDK.Core.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/AWSSDK.SecurityToken.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/DnsClient.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/EntityFramework.SqlServer.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/EntityFramework.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/Microsoft.AspNetCore.OData.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/Microsoft.Data.Edm.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/Microsoft.Data.OData.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/Microsoft.OData.Core.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/Microsoft.OData.Edm.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/Microsoft.OData.ModelBuilder.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/Microsoft.Spatial.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/MongoDB.Bson.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/MongoDB.Driver.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/MongoDB.Driver.Core.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/MongoDB.Libmongocrypt.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/SharpCompress.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/Snappier.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/System.CodeDom.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/System.Data.SqlClient.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/System.Spatial.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/ZstdSharp.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/de/Microsoft.Data.Edm.resources.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/es/Microsoft.Data.Edm.resources.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/fr/Microsoft.Data.Edm.resources.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/it/Microsoft.Data.Edm.resources.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/ja/Microsoft.Data.Edm.resources.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/ko/Microsoft.Data.Edm.resources.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/ru/Microsoft.Data.Edm.resources.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/zh-Hans/Microsoft.Data.Edm.resources.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/zh-Hant/Microsoft.Data.Edm.resources.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/de/Microsoft.Data.OData.resources.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/es/Microsoft.Data.OData.resources.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/fr/Microsoft.Data.OData.resources.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/it/Microsoft.Data.OData.resources.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/ja/Microsoft.Data.OData.resources.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/ko/Microsoft.Data.OData.resources.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/ru/Microsoft.Data.OData.resources.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/zh-Hans/Microsoft.Data.OData.resources.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/zh-Hant/Microsoft.Data.OData.resources.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/de/System.Spatial.resources.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/es/System.Spatial.resources.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/fr/System.Spatial.resources.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/it/System.Spatial.resources.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/ja/System.Spatial.resources.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/ko/System.Spatial.resources.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/ru/System.Spatial.resources.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/zh-Hans/System.Spatial.resources.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/zh-Hant/System.Spatial.resources.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/runtimes/linux/native/libmongocrypt.so
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/runtimes/win/native/mongocrypt.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/obj/Debug/net6.0/IOTGarden.csproj.AssemblyReference.cache
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/obj/Debug/net6.0/IOTGarden.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/obj/Debug/net6.0/IOTGarden.AssemblyInfoInputs.cache
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/obj/Debug/net6.0/IOTGarden.AssemblyInfo.cs
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/obj/Debug/net6.0/IOTGarden.csproj.CoreCompileInputs.cache
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/obj/Debug/net6.0/IOTGarden.MvcApplicationPartsAssemblyInfo.cs
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/obj/Debug/net6.0/IOTGarden.MvcApplicationPartsAssemblyInfo.cache
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/obj/Debug/net6.0/staticwebassets/msbuild.IOTGarden.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/obj/Debug/net6.0/staticwebassets/msbuild.build.IOTGarden.props
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.IOTGarden.props
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.IOTGarden.props
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/obj/Debug/net6.0/staticwebassets.build.json
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/obj/Debug/net6.0/staticwebassets.development.json
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/obj/Debug/net6.0/scopedcss/bundle/IOTGarden.styles.css
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/obj/Debug/net6.0/IOTGarden.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/obj/Debug/net6.0/refint/IOTGarden.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/obj/Debug/net6.0/IOTGarden.pdb
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/obj/Debug/net6.0/IOTGarden.genruntimeconfig.cache
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/obj/Debug/net6.0/ref/IOTGarden.dll
+/Users/prasad/Desktop/IOTGardeN-Project/API's/Normal API/IOTGarden/IOTGarden/obj/Debug/net6.0/IOTGarden.csproj.Up2Date

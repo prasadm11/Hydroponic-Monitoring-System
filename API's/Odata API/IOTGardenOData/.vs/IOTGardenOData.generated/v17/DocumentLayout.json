@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prasa\\OneDrive\\Desktop\\IOTGardenOData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{308EBBB2-0B04-4EB6-8F25-B15A0CDD5D1B}|IOTGardenOData.csproj|c:\\users\\prasa\\onedrive\\desktop\\iotgardenodata\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308EBBB2-0B04-4EB6-8F25-B15A0CDD5D1B}|IOTGardenOData.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308EBBB2-0B04-4EB6-8F25-B15A0CDD5D1B}|IOTGardenOData.csproj|c:\\users\\prasa\\onedrive\\desktop\\iotgardenodata\\iotcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308EBBB2-0B04-4EB6-8F25-B15A0CDD5D1B}|IOTGardenOData.csproj|solutionrelative:iotcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308EBBB2-0B04-4EB6-8F25-B15A0CDD5D1B}|IOTGardenOData.csproj|c:\\users\\prasa\\onedrive\\desktop\\iotgardenodata\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{308EBBB2-0B04-4EB6-8F25-B15A0CDD5D1B}|IOTGardenOData.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308EBBB2-0B04-4EB6-8F25-B15A0CDD5D1B}|IOTGardenOData.csproj|c:\\users\\prasa\\onedrive\\desktop\\iotgardenodata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{308EBBB2-0B04-4EB6-8F25-B15A0CDD5D1B}|IOTGardenOData.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308EBBB2-0B04-4EB6-8F25-B15A0CDD5D1B}|IOTGardenOData.csproj|c:\\users\\prasa\\onedrive\\desktop\\iotgardenodata\\controllers\\fertilizerinputodatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308EBBB2-0B04-4EB6-8F25-B15A0CDD5D1B}|IOTGardenOData.csproj|solutionrelative:controllers\\fertilizerinputodatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308EBBB2-0B04-4EB6-8F25-B15A0CDD5D1B}|IOTGardenOData.csproj|c:\\users\\prasa\\onedrive\\desktop\\iotgardenodata\\controllers\\motorstatusodatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308EBBB2-0B04-4EB6-8F25-B15A0CDD5D1B}|IOTGardenOData.csproj|solutionrelative:controllers\\motorstatusodatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308EBBB2-0B04-4EB6-8F25-B15A0CDD5D1B}|IOTGardenOData.csproj|c:\\users\\prasa\\onedrive\\desktop\\iotgardenodata\\controllers\\phinfoodatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308EBBB2-0B04-4EB6-8F25-B15A0CDD5D1B}|IOTGardenOData.csproj|solutionrelative:controllers\\phinfoodatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308EBBB2-0B04-4EB6-8F25-B15A0CDD5D1B}|IOTGardenOData.csproj|c:\\users\\prasa\\onedrive\\desktop\\iotgardenodata\\controllers\\waterlevelodatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308EBBB2-0B04-4EB6-8F25-B15A0CDD5D1B}|IOTGardenOData.csproj|solutionrelative:controllers\\waterlevelodatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308EBBB2-0B04-4EB6-8F25-B15A0CDD5D1B}|IOTGardenOData.csproj|c:\\users\\prasa\\onedrive\\desktop\\iotgardenodata\\controllers\\raspberrypiinfoodatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308EBBB2-0B04-4EB6-8F25-B15A0CDD5D1B}|IOTGardenOData.csproj|solutionrelative:controllers\\raspberrypiinfoodatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308EBBB2-0B04-4EB6-8F25-B15A0CDD5D1B}|IOTGardenOData.csproj|c:\\users\\prasa\\onedrive\\desktop\\iotgardenodata\\models\\waterlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308EBBB2-0B04-4EB6-8F25-B15A0CDD5D1B}|IOTGardenOData.csproj|solutionrelative:models\\waterlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308EBBB2-0B04-4EB6-8F25-B15A0CDD5D1B}|IOTGardenOData.csproj|c:\\users\\prasa\\onedrive\\desktop\\iotgardenodata\\models\\raspberrypiinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308EBBB2-0B04-4EB6-8F25-B15A0CDD5D1B}|IOTGardenOData.csproj|solutionrelative:models\\raspberrypiinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308EBBB2-0B04-4EB6-8F25-B15A0CDD5D1B}|IOTGardenOData.csproj|c:\\users\\prasa\\onedrive\\desktop\\iotgardenodata\\models\\phinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308EBBB2-0B04-4EB6-8F25-B15A0CDD5D1B}|IOTGardenOData.csproj|solutionrelative:models\\phinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308EBBB2-0B04-4EB6-8F25-B15A0CDD5D1B}|IOTGardenOData.csproj|c:\\users\\prasa\\onedrive\\desktop\\iotgardenodata\\models\\motorstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308EBBB2-0B04-4EB6-8F25-B15A0CDD5D1B}|IOTGardenOData.csproj|solutionrelative:models\\motorstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\prasa\\OneDrive\\Desktop\\IOTGardenOData\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\prasa\\OneDrive\\Desktop\\IOTGardenOData\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-21T12:04:55.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WaterLevelODataController.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\OneDrive\\Desktop\\IOTGardenOData\\Controllers\\WaterLevelODataController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WaterLevelODataController.cs",
+              "ToolTip": "C:\\Users\\prasa\\OneDrive\\Desktop\\IOTGardenOData\\Controllers\\WaterLevelODataController.cs",
+              "RelativeToolTip": "Controllers\\WaterLevelODataController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvzIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:44:56.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\prasa\\OneDrive\\Desktop\\IOTGardenOData\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\prasa\\OneDrive\\Desktop\\IOTGardenOData\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T04:20:38.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "startup.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\OneDrive\\Desktop\\IOTGardenOData\\startup.cs",
+              "RelativeDocumentMoniker": "startup.cs",
+              "ToolTip": "C:\\Users\\prasa\\OneDrive\\Desktop\\IOTGardenOData\\startup.cs",
+              "RelativeToolTip": "startup.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAmwGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:50:06.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MotorStatusODataController.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\OneDrive\\Desktop\\IOTGardenOData\\Controllers\\MotorStatusODataController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MotorStatusODataController.cs",
+              "ToolTip": "C:\\Users\\prasa\\OneDrive\\Desktop\\IOTGardenOData\\Controllers\\MotorStatusODataController.cs",
+              "RelativeToolTip": "Controllers\\MotorStatusODataController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:43:22.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IoTContext.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\OneDrive\\Desktop\\IOTGardenOData\\IoTContext.cs",
+              "RelativeDocumentMoniker": "IoTContext.cs",
+              "ToolTip": "C:\\Users\\prasa\\OneDrive\\Desktop\\IOTGardenOData\\IoTContext.cs",
+              "RelativeToolTip": "IoTContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T04:21:03.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FertilizerInputODataController.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\OneDrive\\Desktop\\IOTGardenOData\\Controllers\\FertilizerInputODataController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FertilizerInputODataController.cs",
+              "ToolTip": "C:\\Users\\prasa\\OneDrive\\Desktop\\IOTGardenOData\\Controllers\\FertilizerInputODataController.cs",
+              "RelativeToolTip": "Controllers\\FertilizerInputODataController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:11:53.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PhInfoODataController.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\OneDrive\\Desktop\\IOTGardenOData\\Controllers\\PhInfoODataController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PhInfoODataController.cs",
+              "ToolTip": "C:\\Users\\prasa\\OneDrive\\Desktop\\IOTGardenOData\\Controllers\\PhInfoODataController.cs",
+              "RelativeToolTip": "Controllers\\PhInfoODataController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:10:46.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RaspberrypiInfoODataController.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\OneDrive\\Desktop\\IOTGardenOData\\Controllers\\RaspberrypiInfoODataController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RaspberrypiInfoODataController.cs",
+              "ToolTip": "C:\\Users\\prasa\\OneDrive\\Desktop\\IOTGardenOData\\Controllers\\RaspberrypiInfoODataController.cs",
+              "RelativeToolTip": "Controllers\\RaspberrypiInfoODataController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvzIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:22:50.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RaspberrypiInfo.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\OneDrive\\Desktop\\IOTGardenOData\\Models\\RaspberrypiInfo.cs",
+              "RelativeDocumentMoniker": "Models\\RaspberrypiInfo.cs",
+              "ToolTip": "C:\\Users\\prasa\\OneDrive\\Desktop\\IOTGardenOData\\Models\\RaspberrypiInfo.cs",
+              "RelativeToolTip": "Models\\RaspberrypiInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:22:15.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WaterLevel.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\OneDrive\\Desktop\\IOTGardenOData\\Models\\WaterLevel.cs",
+              "RelativeDocumentMoniker": "Models\\WaterLevel.cs",
+              "ToolTip": "C:\\Users\\prasa\\OneDrive\\Desktop\\IOTGardenOData\\Models\\WaterLevel.cs",
+              "RelativeToolTip": "Models\\WaterLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:43:23.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PhInfo.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\OneDrive\\Desktop\\IOTGardenOData\\Models\\PhInfo.cs",
+              "RelativeDocumentMoniker": "Models\\PhInfo.cs",
+              "ToolTip": "C:\\Users\\prasa\\OneDrive\\Desktop\\IOTGardenOData\\Models\\PhInfo.cs",
+              "RelativeToolTip": "Models\\PhInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:08:39.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MotorStatus.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\OneDrive\\Desktop\\IOTGardenOData\\Models\\MotorStatus.cs",
+              "RelativeDocumentMoniker": "Models\\MotorStatus.cs",
+              "ToolTip": "C:\\Users\\prasa\\OneDrive\\Desktop\\IOTGardenOData\\Models\\MotorStatus.cs",
+              "RelativeToolTip": "Models\\MotorStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:57:54.46Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

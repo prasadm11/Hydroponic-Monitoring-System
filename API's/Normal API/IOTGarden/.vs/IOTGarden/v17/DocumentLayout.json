@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|c:\\users\\prasa\\source\\repos\\iotgarden\\iotgarden\\controllers\\motorstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|solutionrelative:iotgarden\\controllers\\motorstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|c:\\users\\prasa\\source\\repos\\iotgarden\\iotgarden\\controllers\\fertilizerinputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|solutionrelative:iotgarden\\controllers\\fertilizerinputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|c:\\users\\prasa\\source\\repos\\iotgarden\\iotgarden\\models\\fertilizerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|solutionrelative:iotgarden\\models\\fertilizerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|c:\\users\\prasa\\source\\repos\\iotgarden\\iotgarden\\data\\iotcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|solutionrelative:iotgarden\\data\\iotcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|c:\\users\\prasa\\source\\repos\\iotgarden\\iotgarden\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|solutionrelative:iotgarden\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|c:\\users\\prasa\\source\\repos\\iotgarden\\iotgarden\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|solutionrelative:iotgarden\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|c:\\users\\prasa\\source\\repos\\iotgarden\\iotgarden\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|solutionrelative:iotgarden\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|c:\\users\\prasa\\source\\repos\\iotgarden\\iotgarden\\models\\waterlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|solutionrelative:iotgarden\\models\\waterlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|c:\\users\\prasa\\source\\repos\\iotgarden\\iotgarden\\models\\raspberrypiinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|solutionrelative:iotgarden\\models\\raspberrypiinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|c:\\users\\prasa\\source\\repos\\iotgarden\\iotgarden\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|solutionrelative:iotgarden\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|c:\\users\\prasa\\source\\repos\\iotgarden\\iotgarden\\models\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|solutionrelative:iotgarden\\models\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|c:\\users\\prasa\\source\\repos\\iotgarden\\iotgarden\\models\\phinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|solutionrelative:iotgarden\\models\\phinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|c:\\users\\prasa\\source\\repos\\iotgarden\\iotgarden\\models\\motorstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|solutionrelative:iotgarden\\models\\motorstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|c:\\users\\prasa\\source\\repos\\iotgarden\\iotgarden\\controllers\\waterlevelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|solutionrelative:iotgarden\\controllers\\waterlevelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|c:\\users\\prasa\\source\\repos\\iotgarden\\iotgarden\\controllers\\raspberrypiinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|solutionrelative:iotgarden\\controllers\\raspberrypiinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|c:\\users\\prasa\\source\\repos\\iotgarden\\iotgarden\\controllers\\phinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|solutionrelative:iotgarden\\controllers\\phinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|c:\\users\\prasa\\source\\repos\\iotgarden\\iotgarden\\controllers\\mongocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|solutionrelative:iotgarden\\controllers\\mongocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|c:\\users\\prasa\\source\\repos\\iotgarden\\iotgarden\\iotgarden.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E9B1A6F-727A-47C7-B1E0-583EF0101B28}|IOTGarden\\IOTGarden.csproj|solutionrelative:iotgarden\\iotgarden.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IoTContext.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\Data\\IoTContext.cs",
+              "RelativeDocumentMoniker": "IOTGarden\\Data\\IoTContext.cs",
+              "ToolTip": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\Data\\IoTContext.cs",
+              "RelativeToolTip": "IOTGarden\\Data\\IoTContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:05:15.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RaspberrypiInfo.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\Models\\RaspberrypiInfo.cs",
+              "RelativeDocumentMoniker": "IOTGarden\\Models\\RaspberrypiInfo.cs",
+              "ToolTip": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\Models\\RaspberrypiInfo.cs",
+              "RelativeToolTip": "IOTGarden\\Models\\RaspberrypiInfo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:03:12.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WaterLevel.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\Models\\WaterLevel.cs",
+              "RelativeDocumentMoniker": "IOTGarden\\Models\\WaterLevel.cs",
+              "ToolTip": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\Models\\WaterLevel.cs",
+              "RelativeToolTip": "IOTGarden\\Models\\WaterLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:03:36.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MotorStatusController.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\Controllers\\MotorStatusController.cs",
+              "RelativeDocumentMoniker": "IOTGarden\\Controllers\\MotorStatusController.cs",
+              "ToolTip": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\Controllers\\MotorStatusController.cs",
+              "RelativeToolTip": "IOTGarden\\Controllers\\MotorStatusController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAwwCgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T15:21:08.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\appsettings.json",
+              "RelativeDocumentMoniker": "IOTGarden\\appsettings.json",
+              "ToolTip": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\appsettings.json",
+              "RelativeToolTip": "IOTGarden\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T13:08:16.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FertilizerInputController.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\Controllers\\FertilizerInputController.cs",
+              "RelativeDocumentMoniker": "IOTGarden\\Controllers\\FertilizerInputController.cs",
+              "ToolTip": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\Controllers\\FertilizerInputController.cs",
+              "RelativeToolTip": "IOTGarden\\Controllers\\FertilizerInputController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAcwDYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T15:23:14.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FertilizerInput.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\Models\\FertilizerInput.cs",
+              "RelativeDocumentMoniker": "IOTGarden\\Models\\FertilizerInput.cs",
+              "ToolTip": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\Models\\FertilizerInput.cs",
+              "RelativeToolTip": "IOTGarden\\Models\\FertilizerInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:04:24.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "IOTGarden\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\appsettings.Development.json",
+              "RelativeToolTip": "IOTGarden\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-23T18:10:24.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\Program.cs",
+              "RelativeDocumentMoniker": "IOTGarden\\Program.cs",
+              "ToolTip": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\Program.cs",
+              "RelativeToolTip": "IOTGarden\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:05:47.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "IOTGarden\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\Properties\\launchSettings.json",
+              "RelativeToolTip": "IOTGarden\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T06:30:59.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MongoDbSettings.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\Models\\MongoDbSettings.cs",
+              "RelativeDocumentMoniker": "IOTGarden\\Models\\MongoDbSettings.cs",
+              "ToolTip": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\Models\\MongoDbSettings.cs",
+              "RelativeToolTip": "IOTGarden\\Models\\MongoDbSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T05:16:48.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PhInfo.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\Models\\PhInfo.cs",
+              "RelativeDocumentMoniker": "IOTGarden\\Models\\PhInfo.cs",
+              "ToolTip": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\Models\\PhInfo.cs",
+              "RelativeToolTip": "IOTGarden\\Models\\PhInfo.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:02:53.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MotorStatus.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\Models\\MotorStatus.cs",
+              "RelativeDocumentMoniker": "IOTGarden\\Models\\MotorStatus.cs",
+              "ToolTip": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\Models\\MotorStatus.cs",
+              "RelativeToolTip": "IOTGarden\\Models\\MotorStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:03:59.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WaterLevelController.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\Controllers\\WaterLevelController.cs",
+              "RelativeDocumentMoniker": "IOTGarden\\Controllers\\WaterLevelController.cs",
+              "ToolTip": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\Controllers\\WaterLevelController.cs",
+              "RelativeToolTip": "IOTGarden\\Controllers\\WaterLevelController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:14:30.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RaspberrypiInfoController.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\Controllers\\RaspberrypiInfoController.cs",
+              "RelativeDocumentMoniker": "IOTGarden\\Controllers\\RaspberrypiInfoController.cs",
+              "ToolTip": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\Controllers\\RaspberrypiInfoController.cs",
+              "RelativeToolTip": "IOTGarden\\Controllers\\RaspberrypiInfoController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:13:59.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PhInfoController.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\Controllers\\PhInfoController.cs",
+              "RelativeDocumentMoniker": "IOTGarden\\Controllers\\PhInfoController.cs",
+              "ToolTip": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\Controllers\\PhInfoController.cs",
+              "RelativeToolTip": "IOTGarden\\Controllers\\PhInfoController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAqwAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:08:55.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MongoContext.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\Controllers\\MongoContext.cs",
+              "RelativeDocumentMoniker": "IOTGarden\\Controllers\\MongoContext.cs",
+              "ToolTip": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\Controllers\\MongoContext.cs",
+              "RelativeToolTip": "IOTGarden\\Controllers\\MongoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:48:58.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IOTGarden.csproj",
+              "DocumentMoniker": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\IOTGarden.csproj",
+              "RelativeDocumentMoniker": "IOTGarden\\IOTGarden.csproj",
+              "ToolTip": "C:\\Users\\prasa\\source\\repos\\IOTGarden\\IOTGarden\\IOTGarden.csproj",
+              "RelativeToolTip": "IOTGarden\\IOTGarden.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-30T13:04:55.942Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
